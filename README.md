@@ -1,2 +1,3 @@
 **Zomato Restaurant Data Analysis using Python**
+
 Performed exploratory data analysis on Zomato dataset using Python. Applied data cleaning, preprocessing, and visualization techniques using Pandas, NumPy, Matplotlib, and Seaborn to analyze restaurant ratings, customer preferences, online ordering patterns, and restaurant categories. Generated insights through graphical analysis and statistical summaries to support data-driven decision making.
